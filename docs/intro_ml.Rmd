@@ -1,0 +1,49 @@
+---
+title: "A (Hopefully) Gentle Introduction to Machine Learning"
+output: ioslides_presentation
+---
+
+## What is this Machine Learning thing I keep hearing about?
+
+# An Early Definition
+
+**Machine Learning: Field of study that gives computers the ability to learn without being explicitly programmed.**
+
+-Arthur Samuel, 1959
+
+## An Early Definition
+
+Computers are, of course, the "machines" in machine learning. Computers can be a (sometimes frustratingly) literal piece of equipment.
+
+To program a robot to move from one end of a room to another, one could explicitly program each step, manually maneuvering obstacles.
+
+This is fine for small tasks that will always be the same, say building a robot that picks up your shoes from in front of the door and places them in the closet.
+
+But what if we wanted to allow the robot to adapt to different. Possible scenarios.
+
+1.) What if I don't put my shoes in front of the door?
+2.) What if I wear rain boots that day?
+3.) What if I only want my shoes put away at certain times of day?
+
+In a rule-based system we could explicitly program these scenarios in what would amount to a giant if-else statement.
+
+Or we could tell the robot when it does something that we like such as putting our shoes away when we get home for the evening or not putting rain-covered boots in the closet and leaving them to dry in the hall and also teach it when it did something wrong like putting away our shoes when we only put them down for a moment but intended to put them back on or failing to put the shoes away for the night.
+
+
+# Types of Learning
+
+- Supervised
+- Unsupervised
+- Semi-supvervised
+
+# Types of Output
+
+- classification
+- regression
+- clustering
+- dimensionality reduction
+- algorithmic vs. data (Breiman)
+
+# How is this different than AI?
+
+# How is this different than statistics?
